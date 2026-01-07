@@ -1,3 +1,4 @@
 data/
 models/lr_pipeline.pkl
 models/rf_pipeline.pkl
+models/bilstm_model.keras
